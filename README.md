@@ -1,5 +1,13 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/spring boot-green?style=flat&logo=spring boot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/springsecurity-green?style=flat&logo=spring security&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/amazonec2-#6DB33F?style=flat&logo=amazonec2&logoColor=#FF9900"/>
+<img src="https://img.shields.io/badge/spring boot-green?style=flat&logo=spring boot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/spring boot-green?style=flat&logo=spring boot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/spring boot-green?style=flat&logo=spring boot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/spring boot-green?style=flat&logo=spring boot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/spring boot-green?style=flat&logo=spring boot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/spring boot-green?style=flat&logo=spring boot&logoColor=#6DB33F"/>
 
 <!--
 **CordJG/CordJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
