@@ -36,6 +36,8 @@
 
 
 
+![image](https://github.com/CordJG/CordJG/assets/119933990/44647505-4903-44b7-8bd4-65310cf752ca)
+
 </div>
 <!--
 **CordJG/CordJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
